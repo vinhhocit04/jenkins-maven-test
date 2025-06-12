@@ -1,3 +1,7 @@
+/**
+ * Hello world!
+ *
+ */
 package org.example;
 
 public class Main {
